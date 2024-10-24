@@ -1,0 +1,20 @@
+# macOS system files
+.DS_Store
+.Trash
+
+# Personal configuration
+/.bash*
+/.zsh*
+
+# Flutter/Dart specific directories
+.dart-tool/
+/pub-cache/
+/.android/
+/flutter*
+
+# PHP and Laravel specific files
+/vendor/
+composer.lock
+/node_modules/
+/.env
+*.zip
